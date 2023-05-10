@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="126dp"
+        android:orientation="vertical"
+        android:gravity="bottom"
+        android:background="@color/greentheme"
+        android:padding="16dp">
+
+        <ImageView
+            android:layout_width="63dp"
+            android:layout_height="38dp"
+            app:srcCompat="@drawable/username_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Healthify"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="contact@healthify.com"
+            android:textSize="14sp"
+            android:layout_marginBottom="16dp"/>
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/home"
+        android:orientation="horizontal"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Home"
+            android:textSize="20sp"
+            android:drawableLeft="@drawable/home"
+            android:drawablePadding="8dp"/>
+
+
+
+
+   </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/about"
+        android:orientation="horizontal"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/home"
+            android:drawablePadding="8dp"
+            android:text="About"
+            android:textSize="20sp" />
+
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/AI"
+        android:orientation="horizontal"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ChatBot"
+            android:textSize="20sp"
+            android:drawableLeft="@drawable/home"
+            android:drawablePadding="8dp"/>
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+</LinearLayout>
