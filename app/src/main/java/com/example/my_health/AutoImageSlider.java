@@ -2,7 +2,10 @@ package com.example.my_health;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 
 import com.denzcoskun.imageslider.ImageSlider;
 import com.denzcoskun.imageslider.constants.ScaleTypes;
@@ -26,5 +29,13 @@ public class AutoImageSlider extends AppCompatActivity {
 
         is.setImageList(sm,ScaleTypes.FIT);
 
+        Button btn = (Button)findViewById(R.id.button2);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getApplicationContext(),chatgptt.class));
+
+            }
+        });
     }
 }

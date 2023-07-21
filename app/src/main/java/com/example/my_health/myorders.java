@@ -6,12 +6,17 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.razorpay.Checkout;
+
+import org.json.JSONObject;
 
 import java.util.ArrayList;
 
@@ -23,10 +28,14 @@ public class myorders extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_myorders);
+
+
+
         cartdetails = findViewById(R.id.cartdetails);
         checkout = findViewById(R.id.checkout);
         back= findViewById(R.id.backtomain);
         cost= findViewById(R.id.totalcost);
+
 
         SharedPreferences sharedPreferences = getSharedPreferences("sharedprefs", Context.MODE_PRIVATE);
         String username = sharedPreferences.getString("username","").toString();
@@ -52,6 +61,7 @@ public class myorders extends AppCompatActivity {
         System.out.println(totalamount);
         cost.setText("TOTAL COST IS " +totalamount);
 
+
         checkout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -70,4 +80,6 @@ public class myorders extends AppCompatActivity {
             }
         });
     }
+
+
 }

@@ -6,14 +6,21 @@
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/drawable/articles.xml" value="0.19166666666666668" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/drawable/articles_icon.xml" value="0.19166666666666668" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/drawable/bcash.xml" value="0.19166666666666668" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/drawable/bg_message_bot.xml" value="0.1287037037037037" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/drawable/bg_message_user.xml" value="0.1287037037037037" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/drawable/customedit.xml" value="0.19166666666666668" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/drawable/home.xml" value="0.1" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.1" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/drawable/labtest_icon.xml" value="0.13333333333333333" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/drawable/rounded_corner.xml" value="0.1" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/drawable/tag_bkg.xml" value="0.19166666666666668" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_article.xml" value="0.17552083333333332" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_articles.xml" value="0.17552083333333332" />
-        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_auto_image_slider.xml" value="0.22" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_auto_image_slider.xml" value="0.4466666666666667" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_booking.xml" value="0.16666666666666666" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_chat_bot.xml" value="0.14945652173913043" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_chatgpt.xml" value="0.17552083333333332" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_chatgptt.xml" value="0.4416775884665793" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_doctors_details.xml" value="0.14666666666666667" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_findmydoc.xml" value="0.14666666666666667" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_get_started.xml" value="0.22" />
@@ -24,13 +31,20 @@
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_medicine.xml" value="0.13333333333333333" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_medicines.xml" value="0.22" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_myorders.xml" value="0.16666666666666666" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_payments.xml" value="0.1" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_register.xml" value="0.16666666666666666" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/activity_test1.xml" value="0.34872979214780603" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/bg_message_user.xml" value="0.17552083333333332" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/bot_msg.xml" value="0.14945652173913043" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/chat_item.xml" value="0.22" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/detaildesign.xml" value="0.36099585062240663" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/item_message_bot.xml" value="0.17552083333333332" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/item_message_user.xml" value="0.17552083333333332" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/labtest_adap.xml" value="0.4466666666666667" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/layout_adapt.xml" value="0.4466666666666667" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/medicine_adap.xml" value="0.3333333333333333" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/nav_drawer.xml" value="0.5" />
+        <entry key="..\:/Healthify/healthcare-main/app/src/main/res/layout/user_msg.xml" value="0.22" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Healthify/healthcare-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
         <entry key="..\:/Users/HI-LIGHT COMPUTERS/My_health/app/src/main/res/drawable/articles.xml" value="0.2703125" />

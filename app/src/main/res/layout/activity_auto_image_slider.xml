@@ -63,5 +63,23 @@
         android:text="HealthMate is an all-in-one healthcare app that enables users to manage their health needs from the convenience of their smartphone. With features such as booking lab tests, doctor appointments, buying medicines, and accessing health-related articles, HealthMate provides a seamless experience for users to take control of their health."
         android:textSize="10dp" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="705dp"
+        android:layout_marginBottom="17dp"
+        android:background="@color/white"
+        android:text="Chat"
+
+        android:textColor="@color/black"
+        android:textSize="10dp"
+
+        android:textStyle="bold"
+        app:backgroundTint="@color/white" />
+
 
 </RelativeLayout>
